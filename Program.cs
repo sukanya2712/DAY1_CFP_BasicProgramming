@@ -15,8 +15,10 @@
             //obj4.harmonic();
             //QuotientRemainder obj5 = new QuotientRemainder();
             //obj5.quotient();
-            SwapNumbers obj5 = new SwapNumbers();
-            obj5.swap();
+            //SwapNumbers obj5 = new SwapNumbers();
+            //obj5.swap();
+            EvenOdd obj7 = new EvenOdd();
+            obj7.even();
                 
         }
     }
