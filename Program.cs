@@ -19,8 +19,10 @@
             //obj5.swap();
             //EvenOdd obj7 = new EvenOdd();
             //obj7.even();
-            VowelorNot obj8 = new VowelorNot();
-            obj8.vowel();
+            //VowelorNot obj8 = new VowelorNot();
+           // obj8.vowel();
+            Largestthree obj9 = new Largestthree();
+            obj9.largest();
                 
         }
     }
