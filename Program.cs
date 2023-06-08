@@ -13,8 +13,10 @@
             //obj3.powertwo();
             //HarmonicNumber obj4 = new HarmonicNumber();
             //obj4.harmonic();
-            QuotientRemainder obj5 = new QuotientRemainder();
-            obj5.quotient();
+            //QuotientRemainder obj5 = new QuotientRemainder();
+            //obj5.quotient();
+            SwapNumbers obj5 = new SwapNumbers();
+            obj5.swap();
                 
         }
     }
