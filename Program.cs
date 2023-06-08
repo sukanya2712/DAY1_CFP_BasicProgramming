@@ -17,8 +17,10 @@
             //obj5.quotient();
             //SwapNumbers obj5 = new SwapNumbers();
             //obj5.swap();
-            EvenOdd obj7 = new EvenOdd();
-            obj7.even();
+            //EvenOdd obj7 = new EvenOdd();
+            //obj7.even();
+            VowelorNot obj8 = new VowelorNot();
+            obj8.vowel();
                 
         }
     }
