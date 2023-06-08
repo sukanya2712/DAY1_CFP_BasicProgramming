@@ -21,8 +21,11 @@
             //obj7.even();
             //VowelorNot obj8 = new VowelorNot();
            // obj8.vowel();
-            Largestthree obj9 = new Largestthree();
-            obj9.largest();
+            //Largestthree obj9 = new Largestthree();
+            //obj9.largest();
+            FLIPCOIN obj10 = new FLIPCOIN();
+            obj10.coin();
+
                 
         }
     }
