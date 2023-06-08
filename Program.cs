@@ -9,8 +9,10 @@
             //obj1.prime();
             //LeapYear obj2 = new LeapYear();
             //obj2.leap();
-            PowerofTwo obj3 = new PowerofTwo();
-            obj3.powertwo();
+            //PowerofTwo obj3 = new PowerofTwo();
+            //obj3.powertwo();
+            HarmonicNumber obj4 = new HarmonicNumber();
+            obj4.harmonic();
                 
         }
     }
